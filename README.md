@@ -1,1 +1,1 @@
-# nft-workshop-2
+# nft-2
